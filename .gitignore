@@ -1,0 +1,17 @@
+## Dependencies to avoid tracking
+
+node_modules
+client/node_modules
+client/build
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+yarn-error.log
+
+exam-management-system.json
+student-portal.json
+exam-portal.json
